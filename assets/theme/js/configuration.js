@@ -163,7 +163,6 @@ if(servicesContainer != null){
             <div class="item-wrapper" id="${service.color_class}"></div>
             <h6 class="mbr-item-subtitle mbr-fonts-style display-7 text-center"><strong>${service.name}</strong></h6>
             <div class="descr mbr-fonts-style display-4 w-75 m-auto">${featureHolder}</div>
-            <h4 class="mbr-section-subtitle mbr-fonts-style display-4 text-center pricing">₹ ${service.price}</h4>
         </div>
         `
     
